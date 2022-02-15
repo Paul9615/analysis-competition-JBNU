@@ -17,4 +17,4 @@ Submission file for  Business &amp; Economic data analytics contest at  college 
    - 너무 급하게 했음 
 
 # 4. 결과 
-![screensh](./graph/KakaoTalk_20210524_004858864.jpg) 
+I received the Grand prize from College of Commerce, JBNU
