@@ -1,4 +1,4 @@
-# analytics-contest-JBNU
+# analysis-competition-JBNU
 Submission file for  Business &amp; Economic data analytics contest at  college of Commerce, Jeonbuk national university 
 
 전북대학교 상과대학 경영경제데이터분석 경진대회 출품작 
@@ -13,7 +13,6 @@ Submission file for  Business &amp; Economic data analytics contest at  college 
 
 # 3. 사후평가
    - 부족한 실력 
-   - 코더의 부재(나 혼자 함)
    - 너무 급하게 했음 
 
 # 4. 결과 
